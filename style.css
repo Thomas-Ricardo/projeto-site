@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 18px;
+}
+body  {
+    background-color: dodgerblue;
+}
+main {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 5px 5px 5px black;
+}
